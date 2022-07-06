@@ -1,0 +1,16 @@
+2022-07-05 11:36:36,892 [main] INFO  com.example.demo.Application                       - Started Application in 1.129 seconds (JVM running for 2.068)
+2022-07-05 11:36:36,899 [main] INFO  com.example.demo.UserService                       - ****saveUser() -> Execution Started*****
+2022-07-05 11:36:36,899 [main] INFO  com.example.demo.UserDao                           - Record inserted successfuly in db...!
+2022-07-05 11:36:36,899 [main] INFO  com.example.demo.UserService                       - ****saveUser() -> Execution Completed*****
+2022-07-05 11:36:41,090 [main] INFO  com.example.demo.Application                       - Starting Application using Java 1.8.0_202 on DESKTOP-S7SOFT1 with PID 10000 (D:\DEVELOPMENT\JavaRealTimeProjectSTS\06-SB-Logging-App\target\classes started by Shree in D:\DEVELOPMENT\JavaRealTimeProjectSTS\06-SB-Logging-App)
+2022-07-05 11:36:41,099 [main] INFO  com.example.demo.Application                       - No active profile set, falling back to 1 default profile: "default"
+2022-07-05 11:36:41,821 [main] INFO  com.example.demo.Application                       - Started Application in 1.148 seconds (JVM running for 2.123)
+2022-07-05 11:36:41,825 [main] INFO  com.example.demo.UserService                       - ****saveUser() -> Execution Started*****
+2022-07-05 11:36:41,825 [main] INFO  com.example.demo.UserDao                           - Record inserted successfuly in db...!
+2022-07-05 11:36:41,825 [main] INFO  com.example.demo.UserService                       - ****saveUser() -> Execution Completed*****
+2022-07-06 19:10:29,551 [main] INFO  com.example.demo.Application                       - Starting Application using Java 1.8.0_202 on DESKTOP-S7SOFT1 with PID 6940 (D:\DEVELOPMENT\JavaRealTimeProjectSTS\06-SB-Logging-App\target\classes started by Shree in D:\DEVELOPMENT\JavaRealTimeProjectSTS\06-SB-Logging-App)
+2022-07-06 19:10:29,559 [main] INFO  com.example.demo.Application                       - No active profile set, falling back to 1 default profile: "default"
+2022-07-06 19:10:30,755 [main] INFO  com.example.demo.Application                       - Started Application in 1.732 seconds (JVM running for 3.03)
+2022-07-06 19:10:30,762 [main] INFO  com.example.demo.UserService                       - ****saveUser() -> Execution Started*****
+2022-07-06 19:10:30,763 [main] INFO  com.example.demo.UserDao                           - Record inserted successfuly in db...!
+2022-07-06 19:10:30,763 [main] INFO  com.example.demo.UserService                       - ****saveUser() -> Execution Completed*****

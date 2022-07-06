@@ -1,0 +1,37 @@
+2022-07-05 11:33:02,263 [main] INFO  com.example.demo.Application                       - Started Application in 1.274 seconds (JVM running for 2.332)
+2022-07-05 11:33:02,280 [main] INFO  com.example.demo.UserService                       - ****saveUser() -> Execution Started*****
+2022-07-05 11:33:02,281 [main] INFO  com.example.demo.UserDao                           - Record inserted successfuly in db...!
+2022-07-05 11:33:02,281 [main] INFO  com.example.demo.UserService                       - ****saveUser() -> Execution Completed*****
+2022-07-05 11:33:16,613 [main] INFO  com.example.demo.Application                       - Starting Application using Java 1.8.0_202 on DESKTOP-S7SOFT1 with PID 8560 (D:\DEVELOPMENT\JavaRealTimeProjectSTS\06-SB-Logging-App\target\classes started by Shree in D:\DEVELOPMENT\JavaRealTimeProjectSTS\06-SB-Logging-App)
+2022-07-05 11:33:16,619 [main] INFO  com.example.demo.Application                       - No active profile set, falling back to 1 default profile: "default"
+2022-07-05 11:33:17,283 [main] INFO  com.example.demo.Application                       - Started Application in 1.033 seconds (JVM running for 2.098)
+2022-07-05 11:33:17,287 [main] INFO  com.example.demo.UserService                       - ****saveUser() -> Execution Started*****
+2022-07-05 11:33:17,287 [main] INFO  com.example.demo.UserDao                           - Record inserted successfuly in db...!
+2022-07-05 11:33:17,287 [main] INFO  com.example.demo.UserService                       - ****saveUser() -> Execution Completed*****
+2022-07-05 11:33:41,632 [main] INFO  com.example.demo.Application                       - Starting Application using Java 1.8.0_202 on DESKTOP-S7SOFT1 with PID 4400 (D:\DEVELOPMENT\JavaRealTimeProjectSTS\06-SB-Logging-App\target\classes started by Shree in D:\DEVELOPMENT\JavaRealTimeProjectSTS\06-SB-Logging-App)
+2022-07-05 11:33:41,634 [main] INFO  com.example.demo.Application                       - No active profile set, falling back to 1 default profile: "default"
+2022-07-05 11:33:42,317 [main] INFO  com.example.demo.Application                       - Started Application in 1.075 seconds (JVM running for 2.096)
+2022-07-05 11:33:42,321 [main] INFO  com.example.demo.UserService                       - ****saveUser() -> Execution Started*****
+2022-07-05 11:33:42,321 [main] INFO  com.example.demo.UserDao                           - Record inserted successfuly in db...!
+2022-07-05 11:33:42,321 [main] INFO  com.example.demo.UserService                       - ****saveUser() -> Execution Completed*****
+2022-07-05 11:33:44,113 [main] INFO  com.example.demo.Application                       - Starting Application using Java 1.8.0_202 on DESKTOP-S7SOFT1 with PID 11752 (D:\DEVELOPMENT\JavaRealTimeProjectSTS\06-SB-Logging-App\target\classes started by Shree in D:\DEVELOPMENT\JavaRealTimeProjectSTS\06-SB-Logging-App)
+2022-07-05 11:33:44,116 [main] INFO  com.example.demo.Application                       - No active profile set, falling back to 1 default profile: "default"
+2022-07-05 11:33:44,764 [main] INFO  com.example.demo.Application                       - Started Application in 1.021 seconds (JVM running for 2.08)
+2022-07-05 11:33:44,769 [main] INFO  com.example.demo.UserService                       - ****saveUser() -> Execution Started*****
+2022-07-05 11:33:44,769 [main] INFO  com.example.demo.UserDao                           - Record inserted successfuly in db...!
+2022-07-05 11:33:44,769 [main] INFO  com.example.demo.UserService                       - ****saveUser() -> Execution Completed*****
+2022-07-05 11:33:51,476 [main] INFO  com.example.demo.Application                       - Starting Application using Java 1.8.0_202 on DESKTOP-S7SOFT1 with PID 11016 (D:\DEVELOPMENT\JavaRealTimeProjectSTS\06-SB-Logging-App\target\classes started by Shree in D:\DEVELOPMENT\JavaRealTimeProjectSTS\06-SB-Logging-App)
+2022-07-05 11:33:51,479 [main] INFO  com.example.demo.Application                       - No active profile set, falling back to 1 default profile: "default"
+2022-07-05 11:33:52,149 [main] INFO  com.example.demo.Application                       - Started Application in 1.079 seconds (JVM running for 2.125)
+2022-07-05 11:33:52,154 [main] INFO  com.example.demo.UserService                       - ****saveUser() -> Execution Started*****
+2022-07-05 11:33:52,154 [main] INFO  com.example.demo.UserDao                           - Record inserted successfuly in db...!
+2022-07-05 11:33:52,154 [main] INFO  com.example.demo.UserService                       - ****saveUser() -> Execution Completed*****
+2022-07-05 11:33:54,143 [main] INFO  com.example.demo.Application                       - Starting Application using Java 1.8.0_202 on DESKTOP-S7SOFT1 with PID 8052 (D:\DEVELOPMENT\JavaRealTimeProjectSTS\06-SB-Logging-App\target\classes started by Shree in D:\DEVELOPMENT\JavaRealTimeProjectSTS\06-SB-Logging-App)
+2022-07-05 11:33:54,146 [main] INFO  com.example.demo.Application                       - No active profile set, falling back to 1 default profile: "default"
+2022-07-05 11:33:54,824 [main] INFO  com.example.demo.Application                       - Started Application in 1.102 seconds (JVM running for 2.237)
+2022-07-05 11:33:54,829 [main] INFO  com.example.demo.UserService                       - ****saveUser() -> Execution Started*****
+2022-07-05 11:33:54,829 [main] INFO  com.example.demo.UserDao                           - Record inserted successfuly in db...!
+2022-07-05 11:33:54,829 [main] INFO  com.example.demo.UserService                       - ****saveUser() -> Execution Completed*****
+2022-07-05 11:33:59,374 [main] INFO  com.example.demo.Application                       - Starting Application using Java 1.8.0_202 on DESKTOP-S7SOFT1 with PID 5308 (D:\DEVELOPMENT\JavaRealTimeProjectSTS\06-SB-Logging-App\target\classes started by Shree in D:\DEVELOPMENT\JavaRealTimeProjectSTS\06-SB-Logging-App)
+2022-07-05 11:33:59,377 [main] INFO  com.example.demo.Application                       - No active profile set, falling back to 1 default profile: "default"
+2022-07-05 11:34:00,127 [main] INFO  com.example.demo.Application                       - Started Application in 1.136 seconds (JVM running for 2.451)
